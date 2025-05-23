@@ -1,8 +1,10 @@
 .profile-photo {
-  width: 200px;
-  border-radius: 8px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
   display: block;
-  margin: 20px auto;
+  margin: 10px auto 20px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 body {
