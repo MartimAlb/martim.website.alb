@@ -1,4 +1,10 @@
-
+.profile-photo {
+  width: 200px;
+  border-radius: 8px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
